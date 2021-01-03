@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crazyrpc-demo-provider" />
+        <module name="crazyrpc-demo-consumer" />
+        <module name="crazyrpc-demo-interface" />
+        <module name="crazyrpc-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="crazyrpc-core" target="1.8" />
+      <module name="crazyrpc-demo" target="1.8" />
+      <module name="crazyrpc-demo-consumer" target="1.8" />
+      <module name="crazyrpc-demo-interface" target="1.8" />
+      <module name="crazyrpc-demo-provider" target="1.8" />
+      <module name="crazyrpc-parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-core/crazyrpc-core.iml" filepath="$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-core/crazyrpc-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-demo/crazyrpc-demo.iml" filepath="$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-demo/crazyrpc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-demo/crazyrpc-demo-consumer/crazyrpc-demo-consumer.iml" filepath="$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-demo/crazyrpc-demo-consumer/crazyrpc-demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-demo/crazyrpc-demo-interface/crazyrpc-demo-interface.iml" filepath="$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-demo/crazyrpc-demo-interface/crazyrpc-demo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-demo/crazyrpc-demo-provider/crazyrpc-demo-provider.iml" filepath="$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-demo/crazyrpc-demo-provider/crazyrpc-demo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-parent.iml" filepath="$PROJECT_DIR$/《白话RPC框架原理及其实现》/第九章节示例源码/crazyrpc/crazyrpc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/imooc-courses.iml" filepath="$PROJECT_DIR$/.idea/imooc-courses.iml" />
+    </modules>
+  </component>
+</project>
